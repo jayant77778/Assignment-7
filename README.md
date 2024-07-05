@@ -321,6 +321,11 @@ New-AzVM `
 
 **Description:** Creates a virtual machine with specified configurations using PowerShell.
 
+## Additional Information
+All screenshots related to the solutions for the tasks are available in the Screenshots folder.
+
+
+
 
 
 
