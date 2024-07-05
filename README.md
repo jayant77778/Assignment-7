@@ -1,10 +1,5 @@
-Got it! I’ll update the `README.md` file to include placeholders for the screenshots, assuming you will add the actual images to the `screenshots` folder.
 
-Here’s the updated `README.md` file with sections for each task and placeholders for screenshots:
-
----
-
-# Azure CLI and PowerShell Assignment
+#  Assignment-7
 
 ## Introduction
 
